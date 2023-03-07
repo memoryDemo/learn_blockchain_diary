@@ -2,7 +2,7 @@
 #### 账号1 Hash：0xd34B23E1D454908Be14382EbCD8187EdD6d9cECd
 #### 账号2 Hash：0xE2e109b6F1a25309c9F44d392C6f64270B3FD3fc
 
-![安装](./screenshot/安装.jpg "安装")
+![安装](./screenshot/安装.png "安装")
 
 ## 作业二：执行一次转账
 #### From：0xe2e109b6f1a25309c9f44d392c6f64270b3fd3fc
